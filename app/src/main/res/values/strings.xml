@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BasicDrawingApp</string>
+    <string name="brush_size">Brush size</string>
+    <string name="brush">Brush</string>
+    <string name="skin">skin</string>
+    <string name="black">black</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="yellow">yellow</string>
+    <string name="random">random</string>
+    <string name="gallery">gallery</string>
+    <string name="undo">undo</string>
+    <string name="redo">redo</string>
+    <string name="save">save</string>
+</resources>
